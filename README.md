@@ -1,2 +1,2 @@
 # pizza-delivery-application
-![preview img](/preview.jpg)
+![preview img](/preview.png)
